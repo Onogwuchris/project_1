@@ -11,3 +11,6 @@
 [install openssh](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_install_firstuse?tabs=powershell)
 
 [openssh key-management](https://learn.microsoft.com/en-us/windows-server/administration/openssh/openssh_keymanagement)
+
+[Markdown cheat sheet](https://www.markdownguide.org/cheat-sheet/)
+
